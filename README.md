@@ -128,7 +128,7 @@
 <br>
 
 <li>
-<a href="https://www.facebook.com/sergio.sopelana" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61561956874856" target="_blank">
 <img src="https://img.shields.io/badge/Facebook:  Sergio-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
 </a>
 </li>
