@@ -73,8 +73,8 @@
 
 - **Desarrollo Mobile**:
 
-   ![REACT NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-   [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+   ![XAMARIN](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+   [![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)
 
 
 <br>
@@ -185,4 +185,4 @@
 
 Creditos: [Sergio Sopelana](https://github.com/SASOPELANA)
 
-Ultima Ediccion: 05/07/2024
+Ultima Ediccion: 19/07/2024
