@@ -71,13 +71,6 @@
     
 <br>
 
-- **Desarrollo Mobile**:
-
-   ![XAMARIN](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-   [![MAUI](https://img.shields.io/badge/MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)
-
-
-<br>
 
 - **Softwares y Herramientas**:
 
