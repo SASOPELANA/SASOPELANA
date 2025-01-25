@@ -176,6 +176,6 @@
 
 <br>
 
-Creditos: [Sergio Sopelana](https://portafolio-web-sepia-six.vercel.app/)
+Creditos: [Sergio Alejandro Sopelana](https://portafolio-web-sepia-six.vercel.app/)
 
 Ultima Ediccion: 25/01/2025
