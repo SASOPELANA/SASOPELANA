@@ -176,6 +176,6 @@
 
 <br>
 
-Creditos: [Sergio Sopelana](https://github.com/SASOPELANA)
+Creditos: [Sergio Sopelana](https://portafolio-web-sepia-six.vercel.app/)
 
-Ultima Ediccion: 19/07/2024
+Ultima Ediccion: 25/01/2025
