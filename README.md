@@ -19,7 +19,7 @@
 
 <br>
 
-- Un apasionado por la programación
+- Programador Freelancer
 - Estudiar y entrenar 
 - Actualmente cursando la Tecnicatura en Programación en la UTN
 - Estoy buscando un trabajo como programador, dejo mi CV 
