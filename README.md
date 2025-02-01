@@ -41,7 +41,7 @@
 
 - **Conocimientos en Lenguajes de Marcado**:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css)    
 
 <br>
     
@@ -69,13 +69,14 @@
 
 - **Softwares y Herramientas**:
 
-   [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,nodejs,bun,npm,vscode,debian,mint,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)
-
+   [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,nodejs,bun,npm,vscode,debian,mint,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
+   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,chromium,firefox,vscodium,vercel&titles=true)
+	
 <br>
 
 - **Extras**:
 
-    [![My Skills](https://skillicons.dev/icons?i=powershell,notion&theme=light)](https://skillicons.dev)
+   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,wezterm,wsl,zellij,terminal&theme=light)
 
 
 </p>
@@ -161,4 +162,4 @@
 
 Creditos: [Sergio Alejandro Sopelana](https://portafolio-web-tl1w.vercel.app/)
 
-Ultima Ediccion: 25/01/2025
+Ultima Ediccion: 01/02/2025
