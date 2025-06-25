@@ -1,4 +1,3 @@
-
 <h1 align="center"><b>Hola, soy Sergio </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
@@ -15,7 +14,7 @@
 	
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 20px></picture> **Sobre Mi**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="20px"></picture>
+ <img align="right" src="https://i.gifer.com/7Ku4.gif" width="250px">
 
 <br>
 
