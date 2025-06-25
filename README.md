@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Objectivo+ser+un+Desarrollador+Backend,;Desarrollador+Mobile,;Estudiante+de+Ciencias+de+la+Computación,;CTF+Principiante,;Aprendiz+Activo/Investigador,;Me+encanta+aprender+cosas+nuevas..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Objectivo+ser+un+Desarrollador+Backend,;Desarrollador+Frontend,;Estudiante+de+Ciencias+de+la+Computación,;CTF+Principiante,;Aprendiz+Activo/Investigador,;Me+encanta+aprender+cosas+nuevas..<3">
   </a>
 </p>
 
@@ -13,9 +13,9 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 20px></picture> **Sobre Mi**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="20px"></picture>
 
 <br>
 
