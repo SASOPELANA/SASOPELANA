@@ -6,89 +6,81 @@
   </a>
 </p>
 
-
-
 <br>
 
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 20px></picture> **Sobre Mí**
 
-	
-## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 20px></picture> **Sobre Mi**
-
- <img align="right" src="https://i.gifer.com/7Ku4.gif" width="150px">
+<img src="https://i.gifer.com/7Ku4.gif" width="150px" alt="GIF animado">
 
 <br>
 
 - Programador Freelancer
-- Estudiar y entrenar 
+- Estudiar y entrenar
 - Actualmente cursando la Tecnicatura en Programación en la UTN
-- Estoy buscando un trabajo como programador, dejo mi CV 
+- Estoy buscando un trabajo como programador, dejo mi CV
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+
 <br>
 
 <p align="center">
 
 - **Conocimientos en Lenguajes de Programación**:
- 
-    [![My Skills](https://skillicons.dev/icons?i=js,cpp,cs)](https://skillicons.dev)
-    
-<br>   
+
+  [![My Skills](https://skillicons.dev/icons?i=js,cpp,cs)](https://skillicons.dev)
+
+<br>
 
 - **Conocimientos en Lenguajes de Marcado**:
 
-   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css)    
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css)
 
 <br>
     
 - **Developer**:
 
     [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
-    
 
 <br>
 
 - **Framework**:
 
   [![My Skills](https://skillicons.dev/icons?i=astro,vue,tailwind,bootstrap,dotnet)](https://skillicons.dev)
- 
-
 
 <br>
 
 - **Base de Datos**:
 
   [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev)
-    
-<br>
 
+<br>
 
 - **Softwares y Herramientas**:
 
-   [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,nodejs,bun,npm,vscode,debian,mint,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
-   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,chromium,firefox,vscodium,vercel&titles=true)
-	
+  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,nodejs,bun,npm,vscode,debian,mint,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,chromium,firefox,vscodium,vercel&titles=true)
+
 <br>
 
 - **Extras**:
 
-   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,wezterm,wsl,zellij,terminal&theme=light)
-
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,wezterm,wsl,zellij,terminal&theme=light)
 
 </p>
 
 <br>
 <br>
 
------
+---
 
 <br>
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas GitHub </b>
+
 <br>
 
 <div align="center">
@@ -103,12 +95,13 @@
 <br>
 <br>
 
------
+---
 
 <br>
 <br>
 
 ## <b> Nos ponemos en contacto!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
 <br>
 <div align='left'>
 
@@ -159,6 +152,6 @@
 
 <br>
 
-Creditos: [Sergio Alejandro Sopelana](https://portafolio-web-tl1w.vercel.app/)
+Créditos: [Sergio Alejandro Sopelana](https://portafolio-web-tl1w.vercel.app/)
 
-Ultima Ediccion: 01/02/2025
+Última Edición: 25/06/2025
