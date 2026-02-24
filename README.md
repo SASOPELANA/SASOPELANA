@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Objetivo+ser+un+Desarrollador+Backend,;Desarrollador+FullStack,;Estudiante+de+Ciencias+de+la+Computación,;CTF+Principiante,;Aprendiz+Activo/Investigador,;Me+encanta+aprender+cosas+nuevas..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollador+Full+Stack;Backend+%7C+Frontend;Siempre+aprendiendo+nuevas+tecnologías">
   </a>
 </p>
 
@@ -21,6 +21,7 @@
 - Programador Full Stack - Freelancer
 - Actualmente cursando la Tecnicatura Universitaria en Informática - UNNE
 - Enfocado en desarrollo Backend y Frontend con JavaScript/TypeScript
+- Nivel de inglés: Básico
 - En constante aprendizaje de nuevas tecnologías y mejores prácticas
 - Estoy buscando un trabajo como programador, [descarga mi CV](https://portafolio-web-tl1w.vercel.app/cv-sergio-alejandro-sopelana.pdf)
 
@@ -31,6 +32,18 @@
     <img src="https://img.shields.io/badge/🌐_Ver_Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
 </p>
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> **Actualmente**
+
+<br>
+
+- **Trabajando en:** API de gestión de gatos con autenticación de usuarios usando NestJS y MySQL. También desarrollaré el frontend con React para la interfaz visual
+
+- **Aprendiendo:** Java con Spring Boot para profundizar mis conocimientos en desarrollo Backend
+
+- **Buscando colaborar en:** Proyectos Backend con NestJS o Express, también abierto a colaboraciones Frontend con Astro
 
 <br>
 
@@ -150,16 +163,30 @@
 
 <div align='center'>
 
-## <b>ORAN SALTA✨</b>
-
-</div>
-<br>
 <br>
 
 ---
 
 <br>
 
-Créditos: [Sergio Alejandro Sopelana](https://portafolio-web-tl1w.vercel.app/)
+### <b>Gracias por visitar mi perfil</b>
 
-Última Edición: 24/02/2026
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<p>
+<b>Ubicación:</b> Orán, Salta - Argentina<br>
+<b>Hecho con:</b> optimismo y mucho mate<br>
+<b>Última actualización:</b> 24 de Febrero de 2026
+</p>
+
+<p>
+<a href="https://portafolio-web-tl1w.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/-Visita%20mi%20Portafolio-black?style=flat-square&logo=vercel&logoColor=white" alt="Portafolio" />
+</a>
+</p>
+
+<sub>© 2026 Sergio Alejandro Sopelana - Todos los derechos reservados</sub>
+
+</div>
