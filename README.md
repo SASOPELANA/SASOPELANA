@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://portafolio-web-tl1w.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Ver_Mi_Portafolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/🌐_Ver_Mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
   </a>
 </p>
 
@@ -117,34 +117,30 @@
 ## <b> Nos ponemos en contacto!</b><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width ="50">
 
 <br>
-<div align='left'>
 
-<ul>
+<p align="center" style="font-size: 18px;">
 
-<li>
-<a href="https://www.linkedin.com/in/sergio-alejandro-sopelana-b756aa290?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BbiY79kPtQjy6lXiCgU8LoQ%3D%3D" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Sergio-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/sergio-alejandro-sopelana-b756aa290" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="24" height="24"/>
+<b>LinkedIn</b>
 </a>
-</li>
-
-<br>
-
-<li>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61561956874856" target="_blank">
-<img src="https://img.shields.io/badge/Facebook:  Sergio-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=Facebook&logoColor=white" alt=Facebook style="margin-bottom: 5px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="24" height="24"/>
+<b>Facebook</b>
 </a>
-</li>
-
-<br>
-
-<li>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:sopekof@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Sergio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="24" height="24"/>
+<b>Gmail</b>
 </a>
-</li>
+&nbsp;&nbsp;&nbsp;
+<a href="https://portafolio-web-tl1w.vercel.app/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" alt="Portafolio" width="24" height="24"/>
+<b>Portafolio</b>
+</a>
 
-</ul>
-</div>
+</p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -157,8 +153,6 @@
 ## <b>ORAN SALTA✨</b>
 
 </div>
-<br>
-<br>
 <br>
 <br>
 
