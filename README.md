@@ -2,26 +2,39 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Objetivo+ser+un+Desarrollador+Backend,;Desarrollador+Frontend,;Estudiante+de+Ciencias+de+la+Computación,;CTF+Principiante,;Aprendiz+Activo/Investigador,;Me+encanta+aprender+cosas+nuevas..<3">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Objetivo+ser+un+Desarrollador+Backend,;Desarrollador+FullStack,;Estudiante+de+Ciencias+de+la+Computación,;CTF+Principiante,;Aprendiz+Activo/Investigador,;Me+encanta+aprender+cosas+nuevas..<3">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SASOPELANA&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Disponible%20para%20contratar-brightgreen?style=flat" alt="Available for hire" />
+  <img src="https://img.shields.io/github/followers/SASOPELANA?label=Seguidores&style=social" alt="GitHub followers" />
 </p>
 
 <br>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width = 20px></picture> **Sobre Mí**
 
-<img src="https://i.gifer.com/7Ku4.gif" width="150px" alt="GIF animado">
+<br>
+
+- Programador Full Stack - Freelancer
+- Actualmente cursando la Tecnicatura Universitaria en Informática - UNNE
+- Enfocado en desarrollo Backend y Frontend con JavaScript/TypeScript
+- En constante aprendizaje de nuevas tecnologías y mejores prácticas
+- Estoy buscando un trabajo como programador, [descarga mi CV](https://portafolio-web-tl1w.vercel.app/cv-sergio-alejandro-sopelana.pdf)
 
 <br>
 
-- Programador Freelancer
-- Estudiar y entrenar
-- Actualmente cursando la Tecnicatura Universitaria en Informatica UNNE
-- Estoy buscando un trabajo como programador, dejo mi CV
+<p align="center">
+  <a href="https://portafolio-web-tl1w.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Ver_Mi_Portafolio-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+  </a>
+</p>
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 
@@ -38,12 +51,6 @@
 - **Conocimientos en Lenguajes de Marcado**:
 
   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css)
-
-<br>
-    
-- **Developer**:
-
-    [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <br>
 
@@ -67,16 +74,14 @@
 
 - **Extras**:
 
-  [![My Skills](https://skillicons.dev/icons?i=powershell,sqlite,svg,windows,bash)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=powershell,sqlite,svg)](https://skillicons.dev)
 
 </p>
 
 <br>
 <br>
 
----
-
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadisticas GitHub </b>
 
@@ -85,21 +90,31 @@
 <div align="center">
 
 <a href="https://github.com/SASOPELANA">
-  <img src="https://github-readme-stats.vercel.app/api?username=SASOPELANA&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SASOPELANA&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="SASOPELANA"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SASOPELANA&theme=merko&hide_border=true&stroke=7A7ADB&background=130F40&ring=2234AE&fire=2234AE&currStreakNum=D3D3D3&dates=D3D3D3&currStreakLabel=7A7ADB" alt="GitHub Streak" width="450"/>
 </a>
+
+</div>
+
+<br>
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35"> **Actividad Reciente**
+
+<br>
+
+<div align="center">
+
+[![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=SASOPELANA&theme=react-dark&hide_border=true&bg_color=0d1117&color=7A7ADB&line=2234AE&point=D3D3D3)](https://github.com/SASOPELANA)
+
 </div>
 
 <br>
 <br>
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"><br><br>
 
-<br>
-<br>
-
-## <b> Nos ponemos en contacto!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Nos ponemos en contacto!</b><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width ="50">
 
 <br>
 <div align='left'>
@@ -127,12 +142,12 @@
 <img src="https://img.shields.io/badge/gmail:  Sergio-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
 </ul>
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br>
 <br>
 <br>
