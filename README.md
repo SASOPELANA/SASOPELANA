@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SASOPELANA&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Disponible%20para%20contratar-brightgreen?style=flat" alt="Available for hire" />
+  <img src="https://img.shields.io/badge/💼_Disponible_para_contratar-brightgreen?style=for-the-badge" alt="Available for hire" />
   <img src="https://img.shields.io/github/followers/SASOPELANA?label=Seguidores&style=social" alt="GitHub followers" />
 </p>
 
@@ -21,7 +21,7 @@
 - Programador Full Stack - Freelancer
 - Actualmente cursando la Tecnicatura Universitaria en Informática - UNNE
 - Enfocado en desarrollo Backend y Frontend con JavaScript/TypeScript
-- Nivel de inglés: Básico
+- Inglés técnico en constante mejora
 - En constante aprendizaje de nuevas tecnologías y mejores prácticas
 - Estoy buscando un trabajo como programador, [descarga mi CV](https://portafolio-web-tl1w.vercel.app/cv-sergio-alejandro-sopelana.pdf)
 
@@ -106,6 +106,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SASOPELANA&theme=merko&hide_border=true&stroke=7A7ADB&background=130F40&ring=2234AE&fire=2234AE&currStreakNum=D3D3D3&dates=D3D3D3&currStreakLabel=7A7ADB" alt="GitHub Streak" width="450"/>
 </a>
 
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SASOPELANA&theme=github_dark" alt="Lenguajes más usados" width="220"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SASOPELANA&theme=github_dark" alt="Lenguajes con más commits" width="220"/>
+
 </div>
 
 <br>
@@ -121,7 +126,6 @@
 
 </div>
 
-<br>
 <br>
 <br>
 
