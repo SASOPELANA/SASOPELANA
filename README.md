@@ -16,7 +16,7 @@
 
 - Programador Freelancer
 - Estudiar y entrenar
-- Actualmente cursando la Tecnicatura en Informatica UNNE
+- Actualmente cursando la Tecnicatura Universitaria en Informatica UNNE
 - Estoy buscando un trabajo como programador, dejo mi CV
 
 <br><br>
@@ -61,13 +61,13 @@
 
 - **Softwares y Herramientas**:
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,neovim,nodejs,bun,npm,supabase,vite,webstorm,postman,vscode,idea,docker,debian,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,neovim,nodejs,bun,npm,pnpm,supabase,vite,webstorm,postman,vscode,idea,docker,debian,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
 
 <br>
 
 - **Extras**:
 
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=powershell,wezterm,wsl,zellij,terminal&theme=light)
+  [![My Skills](https://skillicons.dev/icons?i=powershell,sqlite,svg,windows,bash)](https://skillicons.dev)
 
 </p>
 
