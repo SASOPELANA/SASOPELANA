@@ -16,7 +16,7 @@
 
 - Programador Freelancer
 - Estudiar y entrenar
-- Actualmente cursando la Tecnicatura en Programación en la UTN
+- Actualmente cursando la Tecnicatura en Informatica UNNE
 - Estoy buscando un trabajo como programador, dejo mi CV
 
 <br><br>
@@ -31,7 +31,7 @@
 
 - **Conocimientos en Lenguajes de Programación**:
 
-  [![My Skills](https://skillicons.dev/icons?i=js,cpp,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,cs,java)](https://skillicons.dev)
 
 <br>
 
@@ -43,19 +43,19 @@
     
 - **Developer**:
 
-    [![My Skills](https://skillicons.dev/icons?i=js,cs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 <br>
 
 - **Framework**:
 
-  [![My Skills](https://skillicons.dev/icons?i=astro,vue,tailwind,bootstrap,dotnet)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,astro,tailwind)](https://skillicons.dev)
 
 <br>
 
 - **Base de Datos**:
 
-  [![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,mongodb)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb)](https://skillicons.dev)
 
 <br>
 
@@ -154,4 +154,4 @@
 
 Créditos: [Sergio Alejandro Sopelana](https://portafolio-web-tl1w.vercel.app/)
 
-Última Edición: 25/06/2025
+Última Edición: 24/02/2026
