@@ -49,7 +49,7 @@
 
 - **Framework**:
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,astro,tailwind)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,astro,react,tailwind)](https://skillicons.dev)
 
 <br>
 
@@ -61,8 +61,7 @@
 
 - **Softwares y Herramientas**:
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,nodejs,bun,npm,vscode,debian,mint,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=gimp,chromium,firefox,vscodium,vercel&titles=true)
+  [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,neovim,nodejs,bun,npm,supabase,vite,webstorm,postman,vscode,idea,docker,debian,windows,ubuntu,netlify,md,bash,visualstudio&perline=8)](https://skillicons.dev)<br>
 
 <br>
 
